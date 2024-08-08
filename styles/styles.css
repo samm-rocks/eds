@@ -259,3 +259,7 @@ main .section.highlight {
 main .section .default-content-wrapper {
   background-color: red;
 }
+
+.yellow {
+  background-color: red;
+}

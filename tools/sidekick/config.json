@@ -1,0 +1,15 @@
+{
+    "project": "Rosalind",
+    "plugins": [
+      {
+        "id": "tools",
+        "title": "tools",
+        "isContainer" : true,
+        "environments": ["edit"],
+        "url": "https://www.youtube.com/watch?v=jFfjeQnszi4&list=PLEaEQSM_Y4tlrOCheSWep4r6yTjA3eL_0&index=17",
+        "includePaths": ["**.docx**"],
+        "isPallete" : false
+      }
+    ]
+  }
+  
