@@ -4,10 +4,11 @@
       {
         "id": "tools",
         "title": "tools",
-        "isContainer" : true,
-        "environments": ["edit"],
+        "environments": ["edit","dev","live","preview","prod"],
         "url": "https://www.youtube.com/watch?v=jFfjeQnszi4&list=PLEaEQSM_Y4tlrOCheSWep4r6yTjA3eL_0&index=17",
         "includePaths": ["**.docx**"],
+        "passConfig" : true,
+        "passReferrer" :true,
         "isPallete" : false
       }
     ]
